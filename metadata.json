@@ -1,0 +1,6 @@
+{
+  "name": "NzalaFamilly",
+  "description": "Plateforme web familiale officielle pour la Famille Nzala et ses familles alliées : arbre généalogique interactif, fil d'actualité familial, messagerie privée familiale avec notes vocales & appels audio/vidéo WebRTC, annonces & communiqués officiels, gestion des membres et alliances, calendrier d'événements, anniversaires et vérifications d'affiliation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
